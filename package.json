@@ -1,0 +1,19 @@
+{
+  "name": "xc-autoreleases",
+  "version": "0.0.1",
+  "description": "携程自助发单",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AweasomePro/XCAutoReleases.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AweasomePro/XCAutoReleases/issues"
+  },
+  "homepage": "https://github.com/AweasomePro/XCAutoReleases#readme"
+}
